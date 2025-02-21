@@ -1,4 +1,6 @@
-## <ins>Trekbag - Prepare your bags for a trip</ins>
+## Trekbag - _Prepare your bags for a trip_
+
+App dev with React
 
 ## Packages :
 
@@ -9,7 +11,7 @@ zustand
 
 ### App Component :
 
-1. _commented_ LocalStorage with useEffect and useState
+1. _commented_ -- LocalStorage with useEffect and useState
 2. Header : exemple of children architecture to avoid prop drilling
 
 ### ItemList Component :

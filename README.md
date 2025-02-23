@@ -1,25 +1,8 @@
-## Trekbag - _Prepare your bags for a trip_
-
-App dev with React
+## Trekbag - Prepare your bags for a trip
+dev with React
 
 ## Packages :
+react-select zustand
 
-react-select
-zustand
-
-## Features :
-
-### App Component :
-
-1. _commented_ -- LocalStorage with useEffect and useState
-2. Header : exemple of children architecture to avoid prop drilling
-
-### ItemList Component :
-
-1. Sorting with react-select
-2. useMemo hooks to improve performance regarding element's sorting
-
-### General :
-
-1. Re-usable general component throughout the app, such as Button, Counter, Empty View
-2. Zustand persist store
+## Special feature :
+In this project that looks like a To do List, I used the Zustand library to handle a simple store
